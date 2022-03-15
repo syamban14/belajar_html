@@ -6,3 +6,4 @@ echo "Mereka";
 echo "dia";
 echo True;
 echo False;
+echo 321;
